@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323297736417",
+    "project_id": "sample-otp-project-b8da9",
+    "storage_bucket": "sample-otp-project-b8da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323297736417:android:39f20e0307ecd9f1cf29a0",
+        "android_client_info": {
+          "package_name": "com.example.basicsauthfirebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2nXUjU0ZtfBqfSEHAtwSTT0GzNRLWqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
