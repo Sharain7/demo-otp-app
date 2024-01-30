@@ -8,7 +8,7 @@ Welcome to the Demo OTP Android app! This application utilizes Firebase Authenti
    git clone https://github.com/your-username/demo-otp-android.git
 
 - Open in Android Studio: Import the project into Android Studio. Ensure that you have the necessary SDK and dependencies installed.
-- Firebase Configuration: Create a Firebase project and configure your app according to Firebase guidelines.Update the google-services.json file with your Firebase project settings. 
+- Firebase Configuration: Create a Firebase project and configure your app according to Firebase guidelines. Update the google-services.json file with your Firebase project settings. 
  - Run the App: Build and run the app on an Android emulator or physical device.
 # Usage
 Phone Number Verification:
